@@ -69,3 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # real-estate
+# real-estate git init git add . git commit -m first commit git branch -M main git remote add origin https://github.com/aditya080101/real-estate.git git push -u origin mai
